@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#bodyau{
+    background-image: url(img/wp6990351.webp);
+    background-size: 100%;
+}
+#bodyix{
+    background-image: url(img/wp6994803.webp);
+    background-size: cover;
+}
+#bodycu{
+    background-image: url(img/desktop-wallpaper-minimal-blue-mountains-blue-mountain-abstract.jpg);
+    background-size: 100%;
+}
+#ggg{
+    background-image: url(img/download.jfif);
+}
+#bodycl{
+    background-image: url(img/wallpapersden.com_dark-minimal-mountains-at-night_3840x2160.jpg);
+    background-size: 100%;
+}
+#bodydi{
+    background-image: url(img/R\ \(2\).jfif);
+    background-size: 100%;
+}
+#bodydg{
+    background-image: url(img/R\ \(1\).jfif);
+    background-size: 100%;
+}
+#bodygi{
+    background-image: url(img/R.jfif);
+    background-size: 100%;
+}
+#bodypa{
+    background-image: url(img/dark-apple-mac-pro_1570394998.jpg.webp);
+    background-size: 100%;
+}
+#bodyln{
+    background-image: url(img/4148980.jpg);
+    background-size: 100%;
+}
+#bodyve{
+    background-image: url(img/7237875.png);
+    background-size: 100%;
+}
+#h1cl{
+    
+}
